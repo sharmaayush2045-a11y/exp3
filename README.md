@@ -53,5 +53,6 @@ react-api-project/
 │   └── index.js      # Entry point
 │
 ├── package.json
+└── public/
 
 ```
