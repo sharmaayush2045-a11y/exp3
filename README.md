@@ -41,8 +41,6 @@ The project uses:
 We fetch data from:
 - `https://jsonplaceholder.typicode.com/users`
 
-To make the project more relevant, names and cities are replaced with **Indian names and cities**.
-
 ---
 
 ## 📁 Folder Structure
